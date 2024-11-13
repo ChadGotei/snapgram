@@ -151,7 +151,7 @@ const PostForm = ({ action, post }: PostFormProps) => {
                 <Input
                   type="text"
                   className="shad-input"
-                  placeholder="Pallavi, Pooja, Yana"
+                  placeholder="fun, college etc"
                   {...field}
                 />
               </FormControl>
